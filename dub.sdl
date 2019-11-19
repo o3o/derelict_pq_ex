@@ -1,0 +1,6 @@
+name "derelict_pq_test"
+description "A minimal D application."
+authors "o3o"
+copyright "Copyright © 2019, o3o"
+license "proprietary"
+dependency "derelict-pq" version="~>2.2.0"

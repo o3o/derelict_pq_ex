@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/derelict_pq_test
+derelict_pq_test.so
+derelict_pq_test.dylib
+derelict_pq_test.dll
+derelict_pq_test.a
+derelict_pq_test.lib
+derelict_pq_test-test-*
+*.exe
+*.o
+*.obj
+*.lst
